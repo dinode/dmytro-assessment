@@ -37,3 +37,10 @@ Removes the 8 oldest dog media items and replaces them with new ones. Returns a 
 ## Getting Started
 
 1. `docker-compose up -d postgres` to bring up the database
+
+## Getting Started Backend
+
+1. `cd backend`
+2. `npm i`
+3. Rename `.env.template` --> `.env`
+4. `npm urn start:local`
